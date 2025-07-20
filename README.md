@@ -14,8 +14,8 @@ This project analyzes publicly available Fitbit data to uncover trends in activi
 
 The complete data cleaning, processing, and exploratory analysis workflow is documented in the following Jupyter notebooks:
 
-- [Data Cleaning and Processing](notebooks/Fitbit_Process_Phase.ipynb)
-- [Exploratory Data Analysis](notebooks/Bellabeat_Fitbit_Analysis.ipynb)
+- [Data Cleaning and Processing](Fitbit_Process_Phase.ipynb)
+- [Exploratory Data Analysis](Bellabeat_Fitbit_Analysis.ipynb)
 
 
 
