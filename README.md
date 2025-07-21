@@ -44,6 +44,8 @@ Key insights for Bellabeat include:
 - **Integrated Health Metrics**: Users who log both activity and sleep tend to have more consistent wellness patterns, highlighting the importance of multi-metric tracking.
 
 Below is an overview from the interactive Power BI dashboard. 
+![Power BI Dashboard Overview](Power%20bi%20dashboard%20for%20fitbit.jpg)
+
 
 
 
