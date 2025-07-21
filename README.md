@@ -62,6 +62,12 @@ In contrast, **Sundays** show the lowest activity. Users average only **6,060 st
 
 ![Step Goal Achievement – Sunday](dashboard_sunday.png)
 
+### Relationship Between Daily Steps and Sleep
+
+The scatterplot below shows a moderate positive relationship between total daily steps and total sleep minutes. Users who are more active—logging higher step counts—also tend to get more sleep per night. However, most users still fall short of the recommended sleep duration, even as activity increases. This suggests that while being active supports better sleep, there’s still room for improvement in both movement and sleep habits.
+
+![Sleep Minutes vs Total Steps per Day](scatter_sleep_steps.png)  <!-- Replace with your actual file name -->
+
 
 
 
