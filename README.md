@@ -46,6 +46,23 @@ Key insights for Bellabeat include:
 Below is an overview from the interactive Power BI dashboard. 
 ![Power BI Dashboard Overview](Power%20bi%20dashboard%20for%20fitbit.jpg)
 
+## Insights: Weekday vs. Weekend Activity
+
+### Users Are Most Active on Wednesdays
+
+Looking at the weekly distribution of step goal achievement, users are most active on **Wednesdays**. On this day, the average daily steps reach about **7,510**, and the goal achievement rate peaks at **35%**. This highlights Wednesday as the week’s most active day.
+
+![Step Goal Achievement – Wednesday](images/dashboard_wednesday.png)
+
+---
+
+### Activity Drops Significantly on Sundays
+
+In contrast, **Sundays** show the lowest activity. Users average only **6,060 steps**, with a goal achievement rate of **26%**. This makes Sunday the least active day of the week according to the data.
+
+![Step Goal Achievement – Sunday](images/dashboard_sunday.png)
+
+
 
 
 
