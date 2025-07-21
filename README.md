@@ -29,6 +29,25 @@ The Fitbit dataset is organized into several related tables, each capturing diff
 
 All tables are linked by the `Id` field (the unique user identifier), which enables integrated analysis of activity, sleep, weight, and heart rate patterns.
 
+![Fitbit Data ERD](ERD%20for%20fitbit.png.png)
+
+## Executive Summary
+
+### Overview of Findings
+
+This analysis of Fitbit user data uncovers clear patterns in daily activity, sleep behavior, and device engagement. Most users fall short of recommended activity and sleep levels, with only a minority meeting the benchmark of 10,000 steps per day or 7+ hours of nightly sleep. Strong correlations were observed between consistent activity, longer sleep duration, and overall health indicators such as calories burned and BMI.
+
+Key insights for Bellabeat include:
+- **User Activity**: Fewer than 20% of users achieve 10,000 daily steps. Average daily step counts fall below recommended levels, indicating a significant opportunity to motivate users through targeted reminders and challenges.
+- **Sleep Trends**: Many users average less than 7 hours of sleep per night. Sleep quality and duration fluctuate widely, with higher activity generally associated with improved sleep.
+- **Device Engagement**: Engagement is highest in the first two weeks of use, then gradually declines, suggesting a need for features that sustain user motivation over time.
+- **Integrated Health Metrics**: Users who log both activity and sleep tend to have more consistent wellness patterns, highlighting the importance of multi-metric tracking.
+
+Below is an overview from the interactive Power BI dashboard. 
+
+
+
+
 
 
 
