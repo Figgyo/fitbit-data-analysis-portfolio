@@ -31,6 +31,22 @@ All tables are linked by the `Id` field (the unique user identifier), which enab
 
 ![Fitbit Data ERD](ERD%20for%20fitbit.png.png)
 
+## Power BI Data Model
+
+To create the dashboards and insights below, I built a relational data model in Power BI. This model integrates multiple tables—including activity, sleep, hourly steps, hourly calories, hourly intensities, and a custom date table—to enable comprehensive, flexible analysis.
+
+Key tables in the model:
+- **cleaned_dailyActivity:** Daily activity, steps, and summary metrics.
+- **cleaned_hourlySteps, cleaned_hourlyCalories, cleaned_hourlyIntensities:** Hourly records for steps, calories, and intensity.
+- **Merged_Sleep_and_Activity:** Combines daily activity and sleep minutes.
+- **DateTable:** Provides calendar context for aggregations by day, week, or month.
+- **streaks:** Tracks the user’s longest streak of meeting activity goals.
+
+**Data Model Diagram:**
+
+![Power BI Data Model](11be84cf-680f-418b-869e-859c352a5dd3.png)
+
+
 ## Executive Summary
 
 ### Overview of Findings
@@ -44,7 +60,8 @@ Key insights for Bellabeat include:
 - **Integrated Health Metrics**: Users who log both activity and sleep tend to have more consistent wellness patterns, highlighting the importance of multi-metric tracking.
 
 Below is an overview from the interactive Power BI dashboard. 
-![Power BI Dashboard Overview](Power%20bi%20dashboard%20for%20fitbit.jpg)
+![Power BI Dashboard Overview](884708a1-b272-4399-842b-0fc1eda2c926.png)
+
 
 ## Insights: Weekday vs. Weekend Activity
 
